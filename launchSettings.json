@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Login Demo Shop": {
+      "commandName": "Project",
+      "sqlDebugging": true
+    }
+  }
+}
