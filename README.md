@@ -11,7 +11,7 @@ Then it asks the username table and the password table for the typed details.  I
 
 My intention is to create a follow on page if login success is true, and this next page will consist of guitar and audio technology.  Eventually it would be good to have 2 videos inserted in my portfolio website recording the local setup and then another video documenting a more complex app and database contacted in a remote server.
 
-I currently Have 3 videos of larger projects at 
+I currently Have 3 videos of larger projects at the following link:-
 # (https://portfolio.buyshirtsandstuff.com/)
 
 
